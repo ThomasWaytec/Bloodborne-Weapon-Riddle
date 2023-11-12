@@ -11,7 +11,7 @@ const RIDDLES = [
             "Saw Cleaver"
         ],
 
-        "correct_answer": "Saw Cleaver"
+        "correctAnswer": "Saw Cleaver"
     },
 
     {
@@ -22,7 +22,7 @@ const RIDDLES = [
             "Amygdalan Arm"
         ],
 
-        "correct_answer": "Ludwig's Holy Blade"
+        "correctAnswer": "Ludwig's Holy Blade"
 
 
     }
